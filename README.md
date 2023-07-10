@@ -1,9 +1,18 @@
-<h1>Battery Sounds</h1>
+# Battery Sounds
 
-<div align = "center">
-<img src = "https://user-images.githubusercontent.com/103002592/233218864-1439d7b4-8ddc-47ab-920e-b0efbb7000e1.jpg" width = "300px" />
-</div>
+Olá, Bem vindo ao meu projeto de bateria.
 
-> Project status: finished
+![batterry issue](https://github.com/alvccpj/baterry-sounds/assets/103002592/1da28e95-118f-4983-941b-bee9320197cf)
 
-- Creating battery sounds with HTML, CSS and JS.
+## Ferramentas utilizadas:
+
+* HTML
+
+* CSS
+
+* JavaScript
+
+* Utilizei o Vercel para hospedar o portfólio, sem pagar por um domínio.
+## Feito por:
+
+### Álvaro Jordão
